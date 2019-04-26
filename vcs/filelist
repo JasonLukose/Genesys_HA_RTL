@@ -1,0 +1,4 @@
+~/final_project/src/crossover_selector.v
+~/final_project/src/mux.v
+~/final_project/src/crossover.v
+~/final_project/testbenches/crossover_tb.v
